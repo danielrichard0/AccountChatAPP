@@ -1,12 +1,12 @@
 {
   "Account": [
     {
-      "username": daniel,
-      "password": "satu"
+      "username": "daniel",
+      "password": "daniel"
     },
     {
-      "username": niko,
-      "password": "dua"
+      "username": "niko",
+      "password": "niko"
     }
   ]
 }
