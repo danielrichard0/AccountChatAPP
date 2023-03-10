@@ -2,11 +2,11 @@
   "Account": [
     {
       "username": daniel,
-      "password": "daniel",
+      "password": "daniel"
     },
     {
       "username": niko,
-      "password": "niko",
+      "password": "niko"
     }
   ]
 }
